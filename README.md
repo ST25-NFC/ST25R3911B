@@ -1,5 +1,5 @@
 # ST25R3911B
-本例程仅供学习、参考。如您下载、使用本例程，将视为您同意本软件License agreement与本文重要通知之约定。
+本例程仅供学习、参考。如您下载、使用本例程，将视为您同意本软件License agreement：https://github.com/ST25-NFC/SOFTWARE-LICENSE-AGREEMENT 与本文重要通知之约定。
 
 510例程:<br>
 "510_STM32L4-ST25R3911_NUCLEO_NFC5_V2.0.0_T5T_Lock_Block"重点讲述ST25R3911如何锁定ST25D/TV中单个Block。此例程仅支持第五类卡协议，不支持其他类卡协议。<br>
